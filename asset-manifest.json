@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/helprightNewpost/static/css/main.972ba5b8.css",
+    "main.js": "/helprightNewpost/static/js/main.3117c349.js",
+    "static/js/787.f46a89fa.chunk.js": "/helprightNewpost/static/js/787.f46a89fa.chunk.js",
+    "index.html": "/helprightNewpost/index.html",
+    "main.972ba5b8.css.map": "/helprightNewpost/static/css/main.972ba5b8.css.map",
+    "main.3117c349.js.map": "/helprightNewpost/static/js/main.3117c349.js.map",
+    "787.f46a89fa.chunk.js.map": "/helprightNewpost/static/js/787.f46a89fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.972ba5b8.css",
+    "static/js/main.3117c349.js"
+  ]
+}
